@@ -1,0 +1,6 @@
+venv
+chromedriver.exe
+LOGIN.py
+
+*.xml
+*.iml
