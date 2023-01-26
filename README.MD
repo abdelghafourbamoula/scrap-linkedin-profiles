@@ -1,4 +1,4 @@
-### Scrap targeting linkedin profiles using linkedin-api an export them to json format (mongodb dcollection)
+### Scrap targeting linkedin profiles using linkedin-api an export them to json format (mongodb collection)
 
 ---
 requirements for `python 3.9`
